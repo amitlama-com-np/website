@@ -113,7 +113,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #home {
-  background: url('../images/background.jpg') 100% fixed;
+  background: url('../images/background.jpg') 100% 0 repeat-y fixed;
   background-size: cover;
   background-position:inherit;
   display: -webkit-box;
